@@ -1,2 +1,1 @@
-# tarag
-Tarag - Network Scanner
+# Tarag - Network Scanner
