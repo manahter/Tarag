@@ -1,0 +1,3 @@
+[submodule "rapor"]
+	path = rapor
+	url = https://github.com/manahter/rapor
